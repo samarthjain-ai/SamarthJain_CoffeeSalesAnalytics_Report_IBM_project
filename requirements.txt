@@ -1,0 +1,14 @@
+# Core data science — required by Coffee_Sales_Analytics.py
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+seaborn==0.13.2
+scipy==1.13.0
+scikit-learn==1.4.2
+joblib==1.4.2
+
+# Dashboard API service — required ONLY when running the Node.js dashboard
+# (ml/api.py, uvicorn ml.api:app ...)
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
