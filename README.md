@@ -534,12 +534,4 @@ ml/api.py
 - Add real-time POS streaming via WebSocket
 - Build a mobile-responsive PWA version of the dashboard
 
----
-
-## 📄 License
-
-MIT License — free to use for educational and portfolio purposes.
-
----
-
 *All statistics, observations, insights, and model metrics are computed directly from the actual `Coffe_sales.csv` dataset. No values are fabricated.*
